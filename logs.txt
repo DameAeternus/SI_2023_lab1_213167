@@ -1,0 +1,36 @@
+commit 795f1c9784135bf3fe1362e933595e23288da4b5
+Author: DameAeternus <damedodevski@gmail.com>
+Date:   Tue Mar 28 21:47:36 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 11f81dc8dbf6325d8cd86ec1654905e403c5effa
+Merge: 3a9f2ef 9a32ff2
+Author: DameAeternus <damedodevski@gmail.com>
+Date:   Tue Mar 28 22:05:55 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 9a32ff2ff529e35abf34ef566bb3c86b9acde4db
+Author: DameAeternus <damedodevski@gmail.com>
+Date:   Tue Mar 28 21:45:48 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 3a9f2ef22637748dda2a87ce8172d4a07317c317
+Author: DameAeternus <damedodevski@gmail.com>
+Date:   Tue Mar 28 21:43:37 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 0e42ae8b844442819f765568f670603f6b4e5c6b
+Author: DameAeternus <damedodevski@gmail.com>
+Date:   Tue Mar 21 03:13:26 2023 +0100
+
+    Add java class
+
+commit 0ff849ff5d66bb5ac3b1fcc812445b54a111e08c
+Author: DameAeternus <damedodevski@gmail.com>
+Date:   Tue Mar 21 03:07:30 2023 +0100
+
+    Initial commit
